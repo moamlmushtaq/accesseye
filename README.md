@@ -20,14 +20,6 @@ It connects directly to the GitHub API using OAuth, fetches organization members
 
 ---
 
-## 🖼️ Preview
-
-![AccessEye Dashboard](https://i.ibb.co/FhMJjtb/accesseye-preview.png)
-
-> ⚠️ Add your own screenshots if available
-
----
-
 ## 🧰 Tech Stack
 
 - [Next.js 14](https://nextjs.org/)
@@ -120,8 +112,8 @@ Feel free to fork the repo, open an issue, or submit a pull request.
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by [Moaml Mushtak](https://github.com/moamlmushtak)  
-Part of the [Mushtak Group](https://github.com/moamlmushtak)
+Made with ❤️ by [Moaml Mushtak](https://github.com/moamlmushtaq)  
+Part of the [Mushtak Group](https://github.com/moamlmushtaq)
 
 ---
 
